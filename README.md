@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 
 ### Language
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Reactjs](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
