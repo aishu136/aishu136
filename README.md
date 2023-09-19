@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/RqE4xtMgmxGUMjR6yD/giphy.gif" height="60" width="40">
   <img src="https://readme-typing-svg.herokuapp.com?color=7B2D22F3&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aishwarya">
 </p>
-## 🛠️Technical Skills :-
+### 🛠️Technical Skills :-
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
