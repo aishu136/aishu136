@@ -77,7 +77,16 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![STS]
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanvina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=tokyonight" /></td>
+</tr>
+</table>
 
 
 </body>
