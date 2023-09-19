@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=dhanvina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=tokyonight" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya&theme=tokyonight" /></td>
 </tr>
 </table>
 
