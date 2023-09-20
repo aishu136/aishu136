@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 ![Reactjs](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
