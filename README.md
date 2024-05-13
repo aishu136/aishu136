@@ -79,24 +79,39 @@ I am currently working as full stack developer at M2R2 LTD.
 ### Libraries & Framework
 
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%23092E20.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 
+### Cloud 
 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
 
 </body>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishu136&show_icons=true&locale=en&layout=compact" alt="aishu136" /></p>
 
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=aishu136&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishu136&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aishu136&theme=tokyonight" /></td>
+</tr>
+</table>
