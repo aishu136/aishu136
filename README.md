@@ -62,6 +62,9 @@ I am currently working as full stack developer at M2R2 LTD.
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=007ACC)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=007ACC)&nbsp;
+<img src="https://img.shields.io/badge/generative_AI-informational.svg?style=for-the-badge&logoColor=007ACC" height="20">&nbsp;
+
+
   
 ## ⚡ Technologies
 
@@ -73,6 +76,7 @@ I am currently working as full stack developer at M2R2 LTD.
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20">&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20">&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20">&nbsp;
+<img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" height="20">&nbsp;
 
 
 ### Libraries & Framework
