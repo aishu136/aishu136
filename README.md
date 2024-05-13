@@ -96,6 +96,6 @@ I am currently working as full stack developer at M2R2 LTD.
 
 
 </body>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishu136&show_icons=true&locale=en&layout=compact" alt="aishu136" /></p>
 
 
