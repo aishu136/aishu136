@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <body style="background-color:WhiteSmoke;">
 <h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>
+
+I am currently working as full stack developer at M2R2,
+- 🌱 I am currently learning nextjs,postgresql and flutter
+- 👯 I am looking for collaborate on building web and mobile applications on Andriod
+- 💬 Ask me about java full stack development that includes spring boot ,reactjs and mysql.
+- 📫 How to reach me:aishwarya.sura.ravi@gmail.com
+- 😄 Pronouns: She, her
  
  <p align="center">
     <strong></strong>
@@ -26,6 +34,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/RqE4xtMgmxGUMjR6yD/giphy.gif" height="60" width="40">
   <img src="https://readme-typing-svg.herokuapp.com?color=7B2D22F3&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aishwarya">
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aishwarya-sr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya sr" height="30" width="40" /></a>
+
 
 
 ### 🛠️Technical Skills :-
