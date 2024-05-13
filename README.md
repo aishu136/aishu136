@@ -35,9 +35,7 @@ I am currently working as full stack developer at M2R2 LTD.
 - 💬 Ask me about java full stack development that includes spring boot ,reactjs and mysql.
 - 📫 How to reach me:aishwarya.sura.ravi@gmail.com
 - 😄 Pronouns: She, her
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aishwarya-sr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya sr" height="30" width="40" /></a>
+
 
 
 
@@ -45,7 +43,7 @@ I am currently working as full stack developer at M2R2 LTD.
 
 ![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 ![Reactjs](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20">&nbsp;
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -68,13 +66,14 @@ I am currently working as full stack developer at M2R2 LTD.
 ## ⚡ Technologies
 
 ### Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20">&nbsp;
 ![Reactjs](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" height="20">&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20">&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20">&nbsp;
+
 
 ### Libraries & Framework
 
@@ -93,7 +92,7 @@ I am currently working as full stack developer at M2R2 LTD.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" height="20">&nbsp;
 
 ### Cloud 
 
@@ -105,6 +104,7 @@ I am currently working as full stack developer at M2R2 LTD.
 </body>
 <br/>
 
+## GitHub Statistics 📃
 
 <table>
 <tr>
@@ -115,3 +115,7 @@ I am currently working as full stack developer at M2R2 LTD.
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aishu136&theme=tokyonight" /></td>
 </tr>
 </table>
+
+## 🤝 Connect With Me 🤝 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aishwarya.sura.ravi@gmail.com)](mailto:aishwarya.sura.ravi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-sr/)](https://www.linkedin.com/in/aishwarya-sr/)
