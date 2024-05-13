@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?color=7B2D22F3&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aishwarya">
 </p>
 
-I am currently working as full stack developer at M2R2 LTD.
+   I am currently working as full stack developer at M2R2 LTD.
 - 🌱 I am currently learning nextjs,postgresql and flutter
 - 👯 I am looking for collaborate on building web and mobile applications.
 - 💬 Ask me about java full stack development that includes spring boot ,reactjs and mysql.
