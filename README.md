@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
    I am currently working as full stack developer at M2R2 LTD.
-- 🌱 I am currently learning nextjs,postgresql and flutter
+- 🌱 I am currently learning Azure devops.
 - 👯 I am looking to collaborate on building web and mobile applications.
 - 💬 Ask me about java full stack development that includes spring boot ,reactjs and mysql.
 - 📫 How to reach me:aishwarya.sura.ravi@gmail.com
