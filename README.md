@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 </p>
 
    I am currently working as Software engineer.
-- 🌱 I am currently learning Azure devops.
-- 👯 I am looking to collaborate on building web and mobile applications.
+- 🌱 I am currently learning springAI ,langchain4j,azure devops,angular.
+- 👯 I am looking to collaborate on building web applications.
 - 💬 Ask me about java full stack development that includes spring boot ,reactjs and mysql.
 - 📫 How to reach me:aishwarya.sura.ravi@gmail.com
 - 😄 Pronouns: She, her
