@@ -114,9 +114,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aishu136&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aishu136&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img width="95%" src="https://ghchart.rshah.org/7F5AF0/aishu136" alt="Contribution chart" />
