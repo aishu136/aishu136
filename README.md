@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Java+Full+Stack;Spring+Boot+%E2%80%A2+Quarkus+%E2%80%A2+React;Streaming+with+Kafka+%26+Flink;Building+GenAI+apps+with+LangChain+%26+LangGraph;RAG+pipelines+%E2%80%A2+MCP+servers+%26+agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Java+Full+Stack;Spring+Boot+%E2%80%A2+Quarkus+%E2%80%A2+React+%E2%80%A2+Angular;Streaming+with+Kafka+%26+Flink;Building+GenAI+apps+with+LangChain+%26+LangGraph;RAG+pipelines+%E2%80%A2+MCP+servers+%26+agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 ## 🙋‍♀️ About Me
 
 - 💼 **Software Engineer** building scalable backends, event-driven systems, and AI-powered applications
-- 🔭 Working across **Java full stack** (Spring Boot, Quarkus, React, MySQL) and **real-time streaming** (Kafka, Flink)
+- 🔭 Working across **Java full stack** (Spring Boot, Quarkus, React, Angular, MySQL) and **real-time streaming** (Kafka, Flink)
 - 🤖 Exploring **Generative AI**: LangChain, LangGraph, RAG pipelines, and MCP-based agents
 - 👯 Looking to collaborate on **web applications** and **AI / agentic** projects
-- 💬 Ask me about **Spring Boot, Quarkus, React, Kafka, or RAG**
+- 💬 Ask me about **Spring Boot, Quarkus, React, Angular, Kafka, or RAG**
 - 😄 Pronouns: **she/her**
 
 ---
@@ -51,6 +51,7 @@
 ### 🎨 Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -100,8 +101,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aishu136&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishu136&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishu136&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aishu136&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishu136&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishu136&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aishu136&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
@@ -109,7 +119,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishu136&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img width="95%" src="https://ghchart.rshah.org/7F5AF0/aishu136" alt="Contribution chart" />
 </p>
 
 ---
